@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 56" role="img" aria-label="Everest Tooling and Indestry">
+  <defs>
+    <linearGradient id="evg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e87722"/>
+      <stop offset="1" stop-color="#c2410c"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M4 6 L18 6 L18 12 L12 12 L12 22 L18 22 L18 28 L12 28 L12 40 L18 40 L18 46 L4 46 Z" fill="url(#evg)"/>
+    <path d="M22 6 L30 6 L34 24 L34 6 L40 6 L40 46 L32 46 L28 26 L28 46 L22 46 Z" fill="#0f172a"/>
+    <path d="M44 6 L60 6 L60 46 L52 46 L52 30 L48 30 L48 46 L44 46 Z M48 12 L48 24 L52 24 L52 12 Z" fill="#0f172a"/>
+  </g>
+  <text x="70" y="24" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#0f172a" letter-spacing="0.5">EVEREST</text>
+  <text x="70" y="42" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="600" fill="#e87722" letter-spacing="2.2">TOOLING &amp; INDESTRY</text>
+</svg>
